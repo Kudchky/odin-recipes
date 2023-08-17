@@ -1,0 +1,38 @@
+* {
+  font-family: Verdana, "Courier New", Arial;
+  margin: 0;
+}
+
+#container-main {
+  max-width: 800px;
+  height: 1000px;
+  margin:auto;
+  background-color: rgb(226, 226, 226);
+}
+
+#container-title {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.main-title {
+  text-align: center;
+}
+
+#image-container {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+#image-container img {
+  width: 700px;
+  height: auto;
+}
+
+.contain-list li {
+  list-style: none;
+}
+
+.contain-list a {
+  text-decoration: none;
+}
